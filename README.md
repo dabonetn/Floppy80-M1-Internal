@@ -1,4 +1,24 @@
-# Floppy 80 for the TRS-80 Model I
+# Floppy 80 for the TRS-80 Model I - Internal Version
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+This is a test version, I haven't made any boards yet to test..
+
+Please wait until I actually try this before you try to make any.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
 
 ## Features
 
