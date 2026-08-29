@@ -1,5 +1,14 @@
 # Floppy 80 for the TRS-80 Model I - Internal Version
 
+This is my take on the PCB for the Floppy80-M1.
+It's a internal version that plugs into the Z80 socket.
+
+I've made no changes to the firmware or docs from the source github project.
+If you try my boards and have issues, don't go complaining the MichaelM4.
+
+This board gets rid of all voltage conversion and runs the pico2 on 5V signals.
+
+
 
 
 

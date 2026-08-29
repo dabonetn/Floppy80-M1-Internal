@@ -77,7 +77,11 @@
           ""
         ],
         [
-          "lib_footprint_mismatch|171500000|65350000|19fb3f29-a270-4c40-bfbf-ec72476bd5ef|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|160529819|72335000|594c15b7-3334-4099-b196-93382800c1ff|3463a564-7137-43e9-9302-cf92ca80aad3",
+          ""
+        ],
+        [
+          "silk_over_copper|161482200|73636904|594c15b7-3334-4099-b196-93382800c1ff|61696875-743d-4c5e-b750-eb1303a59d29",
           ""
         ],
         [
@@ -121,35 +125,7 @@
           ""
         ],
         [
-          "silk_overlap|143758259|84027500|44b0f86d-1c3a-4ffd-a054-78c874954501|624d5e96-7842-4c58-ae05-5337fca31bc4",
-          ""
-        ],
-        [
-          "starved_thermal|130610000|71400000|684368fa-9908-4226-a757-cef4284c87a6|28c4442f-918d-43dd-9cb0-f6dc747f4527|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|130610000|84100000|684368fa-9908-4226-a757-cef4284c87a6|32782370-d6a0-44f4-b21c-497622bd7146|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|144782462|124667538|684368fa-9908-4226-a757-cef4284c87a6|79e11ce7-f450-4205-9ac6-504ddd8c5712|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|148282462|126152462|684368fa-9908-4226-a757-cef4284c87a6|377d52a0-a380-4625-bf1c-d72bc0e8ba6e|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|149990000|46000000|684368fa-9908-4226-a757-cef4284c87a6|b8b72f3f-602a-4d6f-bee8-993c4f6643b6|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|156962500|62300000|684368fa-9908-4226-a757-cef4284c87a6|7816bf3c-78ac-4d86-8419-8f9745c22f9d|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|160937500|121850000|684368fa-9908-4226-a757-cef4284c87a6|c2fa695b-df40-4ff1-abb2-558f7c1f6bab|F.Cu",
+          "silk_overlap|161529819|72636904|594c15b7-3334-4099-b196-93382800c1ff|89f60f4e-96d1-46b3-9d22-897add9bcdc5",
           ""
         ]
       ],
@@ -245,7 +221,7 @@
         "min_track_width": 0.15,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -814,7 +790,7 @@
         "uuid": "27d56953-c620-4d5b-9c1c-e48bc3d9684a"
       }
     ],
-    "used_designators": "SDCARD1-2,U6-10,D3,#PWR3-4,#PWR115-121,#PWR127-128,#PWR132-139,#PWR144,R5,R7,J1,J4,C10-12",
+    "used_designators": "U6-10,SDCARD1-2,#PWR3-4,#PWR115-122,#PWR127-128,#PWR132-141,#PWR144,D3,J1-5,R5,R7,C10-12",
     "variants": []
   },
   "sheets": [

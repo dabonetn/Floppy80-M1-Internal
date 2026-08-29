@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "00-Microsd") (type "KiCad") (uri "${KIPRJMOD}/FDC.pretty/MicroSDCardSlot.kicad_sym") (options "") (descr ""))
+	(lib (name "SDcard") (type "KiCad") (uri "${KIPRJMOD}/FDC.pretty/MSD-1-A.kicad_sym") (options "") (descr ""))
 )
