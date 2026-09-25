@@ -77,14 +77,6 @@
           ""
         ],
         [
-          "silk_over_copper|160529819|72335000|594c15b7-3334-4099-b196-93382800c1ff|3463a564-7137-43e9-9302-cf92ca80aad3",
-          ""
-        ],
-        [
-          "silk_over_copper|161482200|73636904|594c15b7-3334-4099-b196-93382800c1ff|61696875-743d-4c5e-b750-eb1303a59d29",
-          ""
-        ],
-        [
           "silk_overlap|133460000|147060000|98b991bf-8e6b-4c8e-b3ff-6903c3a7a9fc|e9f8555a-ecd8-44a4-ad0e-8d5322a77ca3",
           ""
         ],
@@ -122,10 +114,6 @@
         ],
         [
           "silk_overlap|142880000|96140000|3aa31568-eb05-44cf-b7fe-f3e75780701e|8d688729-f2f1-4464-b259-ee3205427ef6",
-          ""
-        ],
-        [
-          "silk_overlap|161529819|72636904|594c15b7-3334-4099-b196-93382800c1ff|89f60f4e-96d1-46b3-9d22-897add9bcdc5",
           ""
         ]
       ],
@@ -310,7 +298,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1.2"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -790,7 +778,7 @@
         "uuid": "27d56953-c620-4d5b-9c1c-e48bc3d9684a"
       }
     ],
-    "used_designators": "U6-10,SDCARD1-2,#PWR3-4,#PWR115-122,#PWR127-128,#PWR132-141,#PWR144,D3,J1-5,R5,R7,C10-12",
+    "used_designators": "U3-10,U23,SDCARD1-2,#PWR3-4,#PWR105-106,#PWR108-122,#PWR124,#PWR127-130,#PWR132-155,D3,J1-5,R5,R7-8,C5-12,C3A1,C3B1",
     "variants": []
   },
   "sheets": [

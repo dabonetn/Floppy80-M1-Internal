@@ -6,12 +6,6 @@ It's a internal version that plugs into the Z80 socket.
 I've made no changes to the firmware or docs from the source github project.
 If you try my boards and have issues, don't go complaining the MichaelM4.
 
-This board gets rid of all voltage conversion and runs the pico2 on 5V signals.
-
-
-
-
-
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -23,6 +17,8 @@ Please wait until I actually try this before you try to make any.
 
 
 
+Updated test version 1.21
+Full level shifting, and added decode circuits not present on the cpu socket.
 
 
 
