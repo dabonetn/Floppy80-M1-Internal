@@ -13,6 +13,19 @@ Please open a issue here.
 Board version 1.45 has been built and tested.
 Works with my Level 2 Model One.
 
+
+
+WILL NOT FIT CORRECTLY WITH THE CPU IN A SOCKET!!!!!
+
+AGAIN
+
+WILL NOT FIT CORRECTLY WITH THE CPU IN A SOCKET!!!!!
+
+(Maybe next board revision.)
+
+
+
+
 I have used it with a 18" (48cm) MicroSD Extension Cable from Aliexpress.
 
 
