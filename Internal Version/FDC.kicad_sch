@@ -10345,7 +10345,7 @@
 				)
 			)
 		)
-		(property "Value" "SN74LS32NSR"
+		(property "Value" "SN74LS32DR"
 			(at 193.04 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10378,6 +10378,17 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
+			(at 193.04 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LSCS Part #" "C116812"
 			(at 193.04 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -10462,7 +10473,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SN74LS32NSR"
+		(property "Value" "SN74LS32DR"
 			(at 228.6 153.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10496,6 +10507,17 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
+			(at 222.25 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LSCS Part #" "C116812"
 			(at 222.25 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11190,7 +11212,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FDV301N"
+		(property "Value" "2N7002"
 			(at 325.12 46.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11233,18 +11255,7 @@
 				)
 			)
 		)
-		(property "Digikey" "FDV301NCT-ND"
-			(at 318.77 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C15310"
+		(property "LCSC Part #" "C65189"
 			(at 318.77 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11349,28 +11360,6 @@
 				)
 			)
 		)
-		(property "Digikey" "732-8080-1-ND"
-			(at 255.27 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" "0.10"
-			(at 255.27 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C49678"
 			(at 255.27 74.93 0)
 			(hide yes)
@@ -11418,7 +11407,7 @@
 				)
 			)
 		)
-		(property "Value" "SN74LS32NSR"
+		(property "Value" "SN74LS32DR"
 			(at 193.04 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11452,6 +11441,17 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
+			(at 193.04 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LSCS Part #" "C116812"
 			(at 193.04 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -11568,6 +11568,17 @@
 			)
 		)
 		(property "Description" "40V 1A Schottky Diode, SMA"
+			(at 48.26 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2480"
 			(at 48.26 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -12208,28 +12219,6 @@
 				)
 			)
 		)
-		(property "Digikey" "732-8080-1-ND"
-			(at 226.06 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" "0.10"
-			(at 226.06 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C49678"
 			(at 226.06 139.7 0)
 			(hide yes)
@@ -12398,7 +12387,7 @@
 				(justify bottom)
 			)
 		)
-		(property "LCSC Part #" "C6082"
+		(property "LCSC Part #" "C7848"
 			(at 228.6 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -12576,7 +12565,7 @@
 				)
 			)
 		)
-		(property "Value" "SN74LS32NSR"
+		(property "Value" "SN74LS32DR"
 			(at 193.04 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -12610,6 +12599,17 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
+			(at 193.04 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LSCS Part #" "C116812"
 			(at 193.04 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -12881,7 +12881,7 @@
 				)
 			)
 		)
-		(property "Value" "SN74LS32NSR"
+		(property "Value" "SN74LS32DR"
 			(at 193.04 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -12915,6 +12915,17 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
+			(at 193.04 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LSCS Part #" "C116812"
 			(at 193.04 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -13042,7 +13053,7 @@
 				(justify bottom)
 			)
 		)
-		(property "LCSC Part #" "C6082"
+		(property "LCSC Part #" "C7848"
 			(at 147.32 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13476,7 +13487,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FDV301N"
+		(property "Value" "2N7002"
 			(at 289.56 46.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13519,18 +13530,7 @@
 				)
 			)
 		)
-		(property "Digikey" "FDV301NCT-ND"
-			(at 283.21 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C15310"
+		(property "LCSC Part #" "C65189"
 			(at 283.21 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13626,7 +13626,7 @@
 				(justify bottom)
 			)
 		)
-		(property "LCSC Part #" "C6082"
+		(property "LCSC Part #" "C7848"
 			(at 228.6 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -14076,7 +14076,7 @@
 				(justify bottom)
 			)
 		)
-		(property "LCSC Part #" "C6082"
+		(property "LCSC Part #" "C7848"
 			(at 146.05 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -14494,7 +14494,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd25caf2-c470-499e-9b28-d47564283b2f")
-		(property "Reference" "C-SD1"
+		(property "Reference" "C6"
 			(at 130.9116 136.779 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14559,17 +14559,6 @@
 				)
 			)
 		)
-		(property "Digikey" "732-8080-1-ND"
-			(at 132.08 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C49678"
 			(at 132.08 139.7 0)
 			(hide yes)
@@ -14590,7 +14579,7 @@
 		(instances
 			(project "FDC"
 				(path "/27d56953-c620-4d5b-9c1c-e48bc3d9684a"
-					(reference "C-SD1")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -15081,28 +15070,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 255.27 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Digikey" "732-8080-1-ND"
-			(at 255.27 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" "0.10"
 			(at 255.27 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -15641,28 +15608,6 @@
 				)
 			)
 		)
-		(property "Digikey" "732-8080-1-ND"
-			(at 175.26 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" "0.10"
-			(at 175.26 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C49678"
 			(at 175.26 30.48 0)
 			(hide yes)
@@ -15832,28 +15777,6 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 172.72 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Digikey" "732-8080-1-ND"
-			(at 172.72 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Cost" "0.10"
 			(at 172.72 74.93 0)
 			(hide yes)
 			(show_name no)

@@ -1542,7 +1542,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C6082"
+		(property "LCSC Part #" "C7848"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2591,6 +2591,19 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2480"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a5787c6-fc26-4efc-98e3-4538293e8cad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*SMA*")
 		(path "/3a64a665-3cd8-4f58-b6de-936df553e246")
 		(sheetname "/")
@@ -2867,7 +2880,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C6082"
+		(property "LCSC Part #" "C7848"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3529,7 +3542,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C6082"
+		(property "LCSC Part #" "C7848"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3993,7 +4006,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C6082"
+		(property "LCSC Part #" "C7848"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6127,7 +6140,7 @@
 				)
 			)
 		)
-		(property "Value" "FDV301N"
+		(property "Value" "2N7002"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6163,20 +6176,7 @@
 				)
 			)
 		)
-		(property "Digikey" "FDV301NCT-ND"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "289e7adf-5560-40b5-8a6b-96be82218e0a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC Part #" "C15310"
+		(property "LCSC Part #" "C65189"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6612,7 +6612,7 @@
 				)
 			)
 		)
-		(property "Value" "SN74LS32NSR"
+		(property "Value" "SN74LS32DR"
 			(at 0 6.05 0)
 			(layer "F.Fab")
 			(uuid "44056ceb-1480-4396-8344-b9d4a38fc74a")
@@ -6645,8 +6645,21 @@
 				)
 			)
 		)
+		(property "LSCS Part #" "C116812"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26672619-ebf9-4380-88ac-1fe33b250691")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP?14*")
-		(path "/70c6979c-6a81-4c30-a8d5-2c113a52f4c0")
+		(path "/74cb5ded-b7f9-4d94-8f7b-09da6e73624a")
 		(sheetname "/")
 		(sheetfile "FDC.kicad_sch")
 		(units
@@ -7234,7 +7247,7 @@
 				)
 			)
 		)
-		(property "Value" "FDV301N"
+		(property "Value" "2N7002"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7270,20 +7283,7 @@
 				)
 			)
 		)
-		(property "Digikey" "FDV301NCT-ND"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cbb9806a-168f-4f0e-a193-1edacde9c15f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC Part #" "C15310"
+		(property "LCSC Part #" "C65189"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10277,7 +10277,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "Socket->\nPins<-"
+	(gr_text "CPU->\nPins<-"
 		(at 134.5 127 0)
 		(layer "F.SilkS")
 		(uuid "7620a7cc-92d5-4d1d-9c91-84c59a9dfcfb")
@@ -10342,7 +10342,7 @@
 		)
 	)
 	(gr_text "D1 3V 5mm LED (or Header)\nD2 SS14 Diode"
-		(at 153 120.8 90)
+		(at 151.8 119.5 90)
 		(layer "B.SilkS")
 		(uuid "96b29f73-76d7-436e-88bd-26be95bbec09")
 		(effects
@@ -10353,8 +10353,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "All Caps - 100NF\nR1,R2,R3,R4,R5 - 1k\nR6 - 100 OHM\nU1,U2,U3,U4 - SN74LVC245APWR\nU5 - SN74LS32NSR\nSD - MSD-1-A\nQ1,Q2 - FDV301N"
-		(at 161.1 93.3 90)
+	(gr_text "All Caps - 100NF (0805)\nR1,R2,R3,R4,R5 - 1k (0805)\nR6 - 100 OHM (0805)\nU1,U2,U3,U4 - SN74LVC245APWR (TSSOP-20)\nU5 - SN74LS32NSR (SOP-16 or SOIC-16)\nSD - MSD-1-A\nQ1,Q2 - 2N7002, FDV301N, or SSM3K324R Mosfets Work"
+		(at 159.7 94.8 90)
 		(layer "B.SilkS")
 		(uuid "6954db28-ec42-417a-befb-fc07e479334d")
 		(effects
@@ -10365,7 +10365,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Floppy80-M1 ver 1.45\nInternal version by dabone (2026)\nhttps://github.com/dabonetn/Floppy80-M1-Internal\nOriginal By MichaelM4\nhttps://github.com/MichaelM4/Floppy80-M1"
+	(gr_text "Floppy80-M1 ver 1.5\nInternal version by dabone (2026)\nhttps://github.com/dabonetn/Floppy80-M1-Internal\nOriginal By MichaelM4\nhttps://github.com/MichaelM4/Floppy80-M1"
 		(at 141.9 122.4 90)
 		(layer "B.SilkS")
 		(uuid "135f354b-52c6-4a9c-908c-605de954d4ae")

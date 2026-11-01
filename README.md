@@ -15,21 +15,32 @@ Works with my Level 2 Model One.
 
 
 
+
+
+
+
 WILL NOT FIT CORRECTLY WITH THE CPU IN A SOCKET!!!!!
 
 AGAIN
 
 WILL NOT FIT CORRECTLY WITH THE CPU IN A SOCKET!!!!!
 
-(Maybe next board revision.)
+
+This is very similar to what happens when using a Sprinter II clone, it does fit, but bends the board.
 
 
-
-
+The board requires you to remove the CPU, and install the board into place.
+It also requires a jumper wire from the via located on pin 2 of the edge connector. (Sysres* signal)
+I highly recommend a microsd extension to mount the card outside of your case.
 I have used it with a 18" (48cm) MicroSD Extension Cable from Aliexpress.
 
+Build notes.
+For the pin headers, I snip the headers that go under the cpu flush with the board and then solder them, it allows a much closer fit for the cpu.
+(If you have a junk board, use that to get the length correct, so you don't nick your board with the flush cutters)
+For the sysres header, if you are using a pin header, use a 90 degree header mounted on the underside of the board. Mounting on the top hits the bottom case.
 
-This requires a jumper wire from the via located on pin 2 of the edge connector. (Sysres* signal)
+
+
 
 JLCPCB Gerbers are under the Production directory.
 
@@ -41,13 +52,29 @@ Qty 1 - SN74LS32 SOIC or SOP16 Footprint.
 Qty 5 - 0805 1k Resistor  
 Qty 1 - 0805 100 Ohm Resistor  
 Qty 6 - 0805 .1uf Capacitor  
-Qty 2 - FDV301N, SSM3K324R, or SN7002 Mosfets.  
+Qty 2 - FDV301N, SSM3K324R, or 2N7002 Mosfets.  
 Qty 1 - SS14 Diode  
 Qty 1 - LED (5mm 3.3v compatible.) or you can substitue a 2.54 header to locate the led elsewhere.  
 Qty 1 - MSD-1-A MicroSD Card Slot.  
 Qty 1 - Right angle pin header, and wire for the sysres* signal from pin 2 of the edge connector.  
 
 This is not a beginners soldering project, the ics are very small.
+
+
+Here are some pics.
+
+![BoardFront](Internal Version/pics/BoardFront.jpg)
+
+
+
+
+![BoardRear](Internal Version/pics/BoardRear.jpg)
+
+On this picture you can see the only flying header needed. 
+Just solder a wire from here to the SYSRES* connector.
+
+
+![Installed](Internal Version/pics/Mounted.jpg)
 
 
 
